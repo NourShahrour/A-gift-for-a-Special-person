@@ -1,0 +1,28 @@
+body {
+    background-color: #343865;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  #home {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    
+  }
+  
+  #imgs {
+    border: 5px solid white;
+    width: 100%;
+    
+  }
+  p{
+    font-family:'Cairo Play', sans-serif;;
+    text-align: center;
+  }
+  
